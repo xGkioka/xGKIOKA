@@ -1,10 +1,15 @@
-# Hi, I'm Xenofon 👋
+# 👋 Hi, I'm Xenofon Gkioka
 
 💻 Computer Programming Student @ Seneca Polytechnic  
-🛠 Background in Construction Supervision & IT Internships  
-🚀 Building CrewFlow (tool-tracking app for construction crews)  
+🛠 Background: Construction Supervisor & IT Intern  
+🚀 Currently learning: C Programming, Linux/Bash, Git/GitHub  
+🌱 Building: [CrewFlow Tool Tracker App](#)  
 
 ## 🔗 Links
-- [My GitHub Profile](https://github.com/xGkioka)  
-- [My LinkedIn](https://www.linkedin.com/in/xenofon-gkiokas-479419186/)  
+- [LinkedIn](https://www.linkedin.com/in/xenofon-gkiokas-479419186/)  
+- [Resume](./resume.pdf) (upload later)  
 
+## 📌 Pinned Projects
+- [IPC-144 C Programming Basics](https://github.com/xGkioka/IPC-144-) – Starter C programs (functions, I/O, conditionals).  
+- [Linux OPS Labs](https://github.com/xGkioka/CEP146-lab03) – Bash commands, file permissions, redirection, and process management.  
+- [Docker B2B eCommerce](https://github.com/xGkioka/SpinWorks) – Symfony + Oro Platform (coming soon).  
