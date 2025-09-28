@@ -7,7 +7,7 @@
 
 ## 🔗 Links
 - [LinkedIn](https://www.linkedin.com/in/xenofon-gkiokas-479419186/)  
-- [Resume](./resume.pdf) (upload later)  
+- [Resume](./resume.pdf)  
 
 ## 📌 Pinned Projects
 - [IPC-144 C Programming Basics](https://github.com/xGkioka/IPC-144-) – Starter C programs (functions, I/O, conditionals).  
